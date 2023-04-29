@@ -7,6 +7,6 @@
 
 4. Open terminal in JupyterLab and navigate to the folder you have created in the 1st step.
 
-5. Now run the command "streamlit run main.py"
+5. Now run the command "streamlit run app.py"
 
 6. This will open our project in Streamlit
